@@ -1,0 +1,1 @@
+global ft_default ft_default.spmversion = ‘spm12’
