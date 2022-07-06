@@ -1,7 +1,7 @@
-#Hyperspectral Images Denoising via a Tensor Dictionary#
+# Hyperspectral Images Denoising via a Tensor Dictionary #
 
 
-###Contents of folder###
+### Contents of folder ###
 1. ourmethod.m
 2. debug.m
 3. nmodeproduct.m
